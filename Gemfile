@@ -43,3 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'carrierwave', '>= 1.0.0.beta', '< 2.0'
